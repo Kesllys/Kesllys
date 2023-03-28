@@ -6,7 +6,7 @@
 ) ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white
 )
 
-![Kesllys GitHub stats](https://github-readme-stats.vercel.app/api?username=kesllys&show_icons=true&theme=tokyonight)<br/> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kesllys&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+![Kesllys GitHub stats](https://github-readme-stats.vercel.app/api?username=kesllys&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kesllys&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)<br/>
 
 
 Apaixonada por Artes Visuais, Design e Criação, aos poucos vou me encontrando no mundo da tecnologia.
