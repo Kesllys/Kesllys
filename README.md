@@ -1,6 +1,6 @@
 ### Hi person, Welcome! 👋
-### Aoba, eu sou a Kelly, seja muito bem-vindo!! 😊
-### Estou procurando vagas CLT ou estágio em áreas de Design e Tecnologia!
+### Prazer, sou a Kelly, seja muito bem-vindo!! 😊
+### Estou procurando vagas nas áreas de Design e Tecnologia!
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelly-c-cardoso/) ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
